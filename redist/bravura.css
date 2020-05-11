@@ -1,1 +1,13 @@
-https://yizumi.github.io/redist/woff/bravura.woff
+@font-face {
+  font-family: "Bravura";
+  src: url("woff/Bravura.woff") format("woff"),
+       url("woff/Bravura.woff2") format("woff2);
+}
+
+.music {
+  font-family: "Bravura";
+}
+
+.g-clef:before { content: '\eE050'; }
+.quarter-up-stem:before { content: '\eE1D5'; }
+.quarter-up-stem:before { content: '\eE1D6'; }
