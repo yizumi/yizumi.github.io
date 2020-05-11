@@ -8,6 +8,6 @@
   font-family: "Bravura";
 }
 
-.g-clef:before { content: '\eE050'; }
-.quarter-up-stem:before { content: '\eE1D5'; }
-.quarter-up-stem:before { content: '\eE1D6'; }
+.g-clef:before { content: '\E050'; }
+.quarter-up-stem:before { content: '\E1D5'; }
+.quarter-up-stem:before { content: '\E1D6'; }
